@@ -1,0 +1,55 @@
+{
+  "name": "ordzy",
+  "subtitle": "Some apps I use latest updates",
+  "description": "",
+  "iconURL": "https://i.imgur.com/deqALxb.png",
+  "website": "https://github.com/ordzy",
+  "patreonURL": "",
+  "tintColor": "#bbbbbb",
+  "featuredApps": [
+    "com.xd.mbp31"
+  ],
+  "apps": [
+    {
+      "name": "MovieBox Pro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/ftcwT67.png",
+      "tintColor": "#fcdc44",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://www.movieboxpro.app/ipa",
+          "size": 36000000,
+          "version": "∞",
+          "buildVersion": "∞",
+          "date": "0001-12-05T04:52:02-05:56",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "MovieBoxPro need to access your idfa be used to deliver personalized content to you.",
+          "NSPhotoLibraryUsageDescription": "Allow MovieBoxPro save  photo to your library?",
+          "NSBluetoothAlwaysUsageDescription": "Allow MovieBoxPro use Bluetooth to find Cast Devices?",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Allow MovieBoxPro to access your location for detailed feedback info?",
+          "NSLocationWhenInUseUsageDescription": "Allow MovieBoxPro to access your location for detailed feedback info?",
+          "NSCameraUsageDescription": "Allow MovieBoxPro access your Camera?",
+          "NSLocationAlwaysUsageDescription": "Allow MovieBoxPro to access your location for detailed feedback info?",
+          "NSBluetoothPeripheralUsageDescription": "Allow MovieBoxPro use Bluetooth to find Cast Devices?",
+          "NSPhotoLibraryAddUsageDescription": "Allow MovieBoxPro save  photo to your library?",
+          "NSMicrophoneUsageDescription": "Allow MovieBoxPro access your Microphone?",
+          "NSLocalNetworkUsageDescription": "MovieBox uses the local network to discover Cast-enabled devices on your WiFi\nnetwork."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
