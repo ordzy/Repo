@@ -14,7 +14,7 @@
       "name": "MovieBox Pro",
       "bundleIdentifier": "com.xd.mbp31",
       "marketplaceID": "",
-      "developerName": "Example Developer",
+      "developerName": "MovieBox",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/ftcwT67.png",
@@ -24,10 +24,10 @@
       "versions": [
         {
           "downloadURL": "https://www.movieboxpro.app/ipa",
-          "size": 36000000,
+          "size": ∞,
           "version": "∞",
           "buildVersion": "∞",
-          "date": "0001-12-05T04:52:02-05:56",
+          "date": "∞",
           "localizedDescription": null,
           "minOSVersion": null
         }
